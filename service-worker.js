@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Timyr4ikon/reacktonx/precache-manifest.6b6d7548ec19c4d971a284cd8be06ad8.js"
+  "/Timyr4ikon/reacktonx/precache-manifest.971b070f1e7217ad525b06eefd3ce2d8.js"
 );
 
 self.addEventListener('message', (event) => {
