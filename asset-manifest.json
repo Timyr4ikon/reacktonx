@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Timyr4ikon/reacktonx/static/css/main.9c996c77.chunk.css",
+    "main.js": "/Timyr4ikon/reacktonx/static/js/main.15012b1e.chunk.js",
+    "main.js.map": "/Timyr4ikon/reacktonx/static/js/main.15012b1e.chunk.js.map",
+    "runtime-main.js": "/Timyr4ikon/reacktonx/static/js/runtime-main.1f5e2b57.js",
+    "runtime-main.js.map": "/Timyr4ikon/reacktonx/static/js/runtime-main.1f5e2b57.js.map",
+    "static/js/2.8de2db63.chunk.js": "/Timyr4ikon/reacktonx/static/js/2.8de2db63.chunk.js",
+    "static/js/2.8de2db63.chunk.js.map": "/Timyr4ikon/reacktonx/static/js/2.8de2db63.chunk.js.map",
+    "index.html": "/Timyr4ikon/reacktonx/index.html",
+    "precache-manifest.6b6d7548ec19c4d971a284cd8be06ad8.js": "/Timyr4ikon/reacktonx/precache-manifest.6b6d7548ec19c4d971a284cd8be06ad8.js",
+    "service-worker.js": "/Timyr4ikon/reacktonx/service-worker.js",
+    "static/css/main.9c996c77.chunk.css.map": "/Timyr4ikon/reacktonx/static/css/main.9c996c77.chunk.css.map",
+    "static/js/2.8de2db63.chunk.js.LICENSE.txt": "/Timyr4ikon/reacktonx/static/js/2.8de2db63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5e2b57.js",
+    "static/js/2.8de2db63.chunk.js",
+    "static/css/main.9c996c77.chunk.css",
+    "static/js/main.15012b1e.chunk.js"
+  ]
+}
